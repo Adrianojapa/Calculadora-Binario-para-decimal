@@ -18,3 +18,4 @@ int main()
 	for(aux=0; aux < TAM; aux ++){
 		printf("%d", binario[aux]);
 	}
+}
